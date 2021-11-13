@@ -1,6 +1,6 @@
 # onlinestore
-an online store
-very op store
+an online book store
+
 # Dependencies
 - python 3.8
 - Flask
